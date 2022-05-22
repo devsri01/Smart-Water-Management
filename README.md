@@ -148,8 +148,8 @@ The Electronic Design is simulated on tinkercad where we used Arduino UNO as mic
 </p>
 <p align="justify">
 
-1. [Mritunjay Kumar Choubey](https://github.com/Ch0ubey)
-2. [Dev srivastava](https://github.com/devsri01)
+1. [Dev srivastava](https://github.com/devsri01)
+2. [Mritunjay Kumar Choubey](https://github.com/Ch0ubey)
 
 
 </p>  
