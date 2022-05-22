@@ -139,7 +139,7 @@ The Electronic Design is simulated on tinkercad where we used Arduino UNO as mic
 <p align="justify">
   
 - The future aspects or the future goals of this project is to make is to make it IOT based system, to be controlled not only automatically but also through our own systems, like Monitors or even Mobile phones.
--IoT water level monitoring system using the HC-SR04 ultrasonic sensor, Nodemcu esp8266 wifi module, and Blynk application. This project is based on two-way communication, you can monitor the Water level in real-time and you can also control the water pump. The lamp indicator represents the water pump.
+- IoT water level monitoring system using the HC-SR04 ultrasonic sensor, Nodemcu esp8266 wifi module, and Blynk application. This project is based on two-way communication, you can monitor the Water level in real-time and you can also control the water pump. The lamp indicator represents the water pump.
 </p>
 
 
